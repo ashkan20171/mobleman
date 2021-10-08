@@ -1,4 +1,8 @@
-body		{ margin:0px; padding:0px; background-color:#DDDDDD }
+body{
+	 margin:0px; 
+	padding:0px;
+	background-size: cover;
+	 background-color:#DDDDDD }
 
 td			{text-align: left;
 			font-family:tahoma;
@@ -72,6 +76,16 @@ a			{text-decoration: none; color:#6780B8}
 		scrollbar-shadow-color:#55313C;
 		scrollbar-darkshadow-color:#55313C;
 		scrollbar-highlight-color:#55313C;
+		}
+		.style1 {
+			text-align: left;
+			font-size: xx-large;
+		}
+		.style2 {
+			text-align: right;
+		}
+		.style3 {
+			text-align: center;
 		}
 
 a:hover{text-decoration:underline;}
