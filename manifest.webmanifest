@@ -1,0 +1,11 @@
+{
+  "name":"مبلمان اشکان",
+  "short_name":"اشکان",
+  "lang":"fa",
+  "dir":"rtl",
+  "start_url":"index.html",
+  "display":"standalone",
+  "background_color":"#f7f4ef",
+  "theme_color":"#6f4e37",
+  "description":"فروشگاه مبلمان مدرن و کلاسیک اشکان"
+}
